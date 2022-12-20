@@ -1,0 +1,58 @@
+#col1{
+    background-color: #0F0F11;
+    height: 200px;
+    width: 1000px;
+    color:white;
+    font-family: Inter;
+    
+}
+#op{
+    padding-left: 15px;
+}
+#web{
+    font-size: 15px;
+    font-family: Inter;
+}
+#addr{
+    font-size: 15px;
+    font-family: Inter;
+    word-spacing: 15px;
+}
+#phone{
+    font-size: 15px;
+    font-family: Inter;
+    word-spacing: 25px;
+}
+#mail{
+    font-size: 15px;
+    font-family: Inter;
+    word-spacing: 30px;
+}
+#col2{
+    font-family: Inter;
+    font-size: 15px;
+}
+#skill{
+    color:#0F0F11;
+
+}
+#work{
+font-family: Inter;
+}
+#current{
+    word-spacing: 5px;
+    font-family: Inter;
+    padding-left: 30px;
+}
+#col3{
+    padding-left: 90px;
+}
+#edu{
+    font-family: Inter;
+
+}
+#col5{
+    word-spacing: 5px;
+    font-family: Inter;
+    padding-left: 30px;
+}
